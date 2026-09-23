@@ -1,0 +1,6 @@
+{
+  "name": "The Festive Curator",
+  "description": "Artisanal digital gift cards designed with the warmth of tradition and the clarity of modern aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
